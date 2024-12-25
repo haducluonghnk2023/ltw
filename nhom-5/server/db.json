@@ -1,0 +1,1721 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Do",
+      "lastName": "Duy",
+      "email": "admin@gmail.com",
+      "userName": "123",
+      "status": "active",
+      "createAt": null,
+      "updateAt": null,
+      "password": "$2a$10$ZsLgDJc.fXJgO9Ii95AUt.SxmnNj7bM9bDVG9ieHGKbyzRJPSH38S",
+      "address": "Hà Nội",
+      "phone": "0949324324",
+      "role": "admin",
+      "lock": false,
+      "permissionList": null,
+      "fullName": "duy thẩm",
+      "gender": "female",
+      "level": "lead",
+      "skills": "vuejs",
+      "yearsOfExperience": 3,
+      "avatar": "https://s3-alpha-sig.figma.com/img/a4ee/2d45/81e30fbdca53ce246a613b78628176e0?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gKO4NvxpcePXoJh5fvVUeVxG~AOLnhjRGDbLjHPjbCkMlhBwr7IR3X-qiDxi7y8Ic3cs5LTB2PCMXkQrlntWrqX1ssjjL9GrEpcXSihcF1MXlILhF9tTuFiOSexfe6JxxpG3jJvM6UJBv9Xf6~1HEij6eFZmViOpZOOAt3plNS~TskDTsIGYV-Qa1bZ9PSI8AwY3z0RxlVcaNoL0Kdz84T~Xd8AI5Vs3de4U6Vb5Z1vSLXNb4i~NUzhudiBNQihl29WIUw52dUOAzlEriw2PSU9Xm4KcjzcxhtAjdCzg7i~9lPbThugL~t8riiMDy8LeNtcznGjuIoKIOG-4mPqArg__",
+      "position": "Project Manager",
+      "birthdate": "1986-01-01",
+      "foreignLanguage": [
+        "IELTS 7.0"
+      ],
+      "saveJob": []
+    },
+    {
+      "id": 2,
+      "firstName": null,
+      "lastName": null,
+      "email": "nva@gmail.com",
+      "userName": null,
+      "fullName": "Nguyen Viet An",
+      "status": "active",
+      "createAt": null,
+      "updateAt": null,
+      "password": "$2a$10$nIOkkCLemMTWmOKdBYCkpOBkGCIXBis4bxcJFmGWaGNm26SsAzo4.",
+      "avatar": "https://s3-alpha-sig.figma.com/img/ab4d/8499/869933fcabb7a397bb0e9144e2e2c90c?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KuszOIH2dFXXBnzn8Hg4PGYGNMEiQb81LD~PaRgSUfSd7M7kcQ4jKVSq~2FoO0uxLsG1B3kZvk1Xegdet8~sAC~M2AtXpulAXjTHTBF9H-UGkwp1jQ4E8kYPPxzOTb-I9hDNtsl~dhlv-1qoDuDbgO7IDSxNQ3ch~IzISf-6elZNTU1FtEJzkx7qIJkHhGqxHs37nY8P0Q2jpssiB2C3MnWb-vEYfC~n9Zc3zMj14jebDAwSA6gWwswaFQZ-u3b0TvrZi9Q1HMzodo2I4piXVWy6LSp1md4NKJQaNeg-8bfsdu-1S57ll09jKvwVg8m-kpOLKPWlMaCgVZgJnmAHQg__",
+      "address": null,
+      "phone": "0842928321",
+      "role": "user",
+      "lock": false,
+      "permissionList": null,
+      "position": "Full-stack Developer",
+      "birthdate": "1990-01-01",
+      "yearsOfExperience": 20,
+      "level": "Lead",
+      "foreignLanguage": [
+        "IELTS 7.0"
+      ],
+      "saveJob": []
+    },
+    {
+      "id": 3,
+      "firstName": "Duy",
+      "lastName": "Anh",
+      "email": "hda@gmail.com",
+      "userName": "hieutrung123",
+      "status": "active",
+      "createAt": null,
+      "updateAt": null,
+      "password": "$2a$10$5FLdf8zzp/lAQyEYGZx8EeSMRecUqVEBwuAlFK1V5vszvaaztwWD.",
+      "address": "Hà Nội",
+      "phone": "0987654321",
+      "role": "user",
+      "lock": false,
+      "permissionList": null,
+      "fullName": "Ho Duy Anh",
+      "birthdate": "1995-12-25",
+      "gender": "male",
+      "level": "Junior",
+      "skills": "JavaScript, Vue.js",
+      "yearsOfExperience": 2,
+      "avatar": "https://s3-alpha-sig.figma.com/img/3964/122f/7e9bf4c6110031b6ebcb97e2c47d468c?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DmrdEB3Mkyf8brcKgeRtAjpQFrma9NP8ONHq-g~lM4qyvtSaGWSxqnWT8GwXVTk9ZOPPJwx-kwulJ1gCzQsfFpQCCgy9V2WQ8OjO4x0INXW15MFtwvqNoSoNB5lTYXNSYFaR0HU19i47SQcHnbI5l1Do-LbXrySURzVFInGh7EbygYCPPwc~Bsaa45ZImDiFrFRBG~PARSDr6CBoe4oEKX3KMgvTPmLFexGr39JcB1iF1owFmHt~8umzEDcBr3L0Q2A6rPuWYCGz4zHaaMq4y24A9tmhJwP8xN~6hLrl48z8f6g6EAfe4xhhS1YQImA55txbOok4ksezKy9YwUJm9w__",
+      "position": "Tester",
+      "foreignLanguage": [
+        "IELTS 7.0"
+      ],
+      "saveJob": []
+    },
+    {
+      "id": 4,
+      "firstName": "Ngueyn",
+      "lastName": "Thai",
+      "email": "nht@gmail.com",
+      "userName": "mainguyen",
+      "status": "active",
+      "createAt": null,
+      "updateAt": null,
+      "password": "$2a$10$5FLdf8zzp/lAQyEYGZx8EeSMRecUqVEBwuAlFK1V5vszvaaztwWD.",
+      "address": "Hà Nội",
+      "phone": "0923456789",
+      "role": "user",
+      "lock": false,
+      "permissionList": null,
+      "fullName": "Nguyen Hong Thai",
+      "birthdate": "2000-04-20",
+      "gender": "female",
+      "level": "Senior",
+      "skills": "HTML, CSS",
+      "yearsOfExperience": 1,
+      "avatar": "https://s3-alpha-sig.figma.com/img/74fd/0ca6/1deb900c25a1a91e7828161e161dcaa9?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=eoPaR92Oe9fk5wbx8di0Pm0UeP6BBmVuNS3Hf4-Yk7P~vTry~i97JcvQ75cXneVwIsSBGOyIu7o~JEwvZKlPiAzM5f9KaylANmiL~fUn8EDT8dy7AxnS8bS7IMY~FYM90LAfkly4pJ8OvuxMgY9mR-HZY5XJhcP6I9gEsRFjCcqohi4k5ytfsPAopggRATricyoOBbXltjpLWmk1iB5paIkN9DdfHQnfp6pQ-K~p6zvsX0-D1clrjjxfbyVIbCEbYzQhEwdsAi1OGUfJkbg3YZdTy3igHXB31vhGZSzZq8McbyOtWm-FKG5puJskY0E8eQJZpSEXowyYiTOLWEEJKQ__",
+      "position": "Front-end Developer",
+      "foreignLanguage": [
+        "IELTS 7.0",
+        "IELTS 7.0"
+      ],
+      "saveJob": []
+    },
+    {
+      "id": 5,
+      "firstName": "Long",
+      "lastName": "Tran",
+      "email": "long.tran@gmail.com",
+      "userName": "longtran",
+      "status": "active",
+      "createAt": null,
+      "updateAt": null,
+      "password": "$2a$10$5FLdf8zzp/lAQyEYGZx8EeSMRecUqVEBwuAlFK1V5vszvaaztwWD.",
+      "address": "Hồ Chí Minh",
+      "phone": "",
+      "role": "user",
+      "lock": false,
+      "permissionList": null,
+      "fullName": "long tran",
+      "birthdate": "1990-05-20",
+      "gender": "male",
+      "level": "Junior",
+      "skills": "",
+      "yearsOfExperience": "",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/avatars%2Fkochunghieujpg.jpg?alt=media&token=cae8eb86-71bb-4db1-a5aa-1f5c520ba90c",
+      "position": "Front-end Developer",
+      "foreignLanguage": [
+        "IELTS 7.0",
+        "IELTS 7.0"
+      ],
+      "saveJob": []
+    },
+    {
+      "id": 6,
+      "firstName": "Linh",
+      "lastName": "Pham",
+      "email": "linh.pham@gmail.com",
+      "userName": "linhpham",
+      "status": "active",
+      "createAt": null,
+      "updateAt": null,
+      "password": "$2a$10$5FLdf8zzp/lAQyEYGZx8EeSMRecUqVEBwuAlFK1V5vszvaaztwWD.",
+      "address": "Đà Nẵng",
+      "phone": "0976543210",
+      "role": "partner",
+      "lock": false,
+      "permissionList": null,
+      "fullName": "Linh Phamt",
+      "birthdate": "1988-08-08",
+      "gender": "male",
+      "level": "Senior",
+      "skills": "Java, Spring",
+      "yearsOfExperience": 8,
+      "avatar": "https://placehold.co/400",
+      "position": "Front-end Developer",
+      "foreignLanguage": [
+        "IELTS 7.0",
+        "IELTS 7.0"
+      ],
+      "saveJob": []
+    },
+    {
+      "id": 7,
+      "firstName": "Khanh",
+      "lastName": "Bui",
+      "email": "khanh.bui@gmail.com",
+      "userName": "khanhbui",
+      "status": "inActive",
+      "createAt": null,
+      "updateAt": null,
+      "password": "$2a$10$5FLdf8zzp/lAQyEYGZx8EeSMRecUqVEBwuAlFK1V5vszvaaztwWD.",
+      "address": "Hải Phòng",
+      "phone": "0912345678",
+      "role": "user",
+      "lock": false,
+      "permissionList": null,
+      "fullName": "Khanh Bui",
+      "birthdate": "1980-03-15",
+      "gender": "male",
+      "level": "Lead",
+      "skills": "Python, Django",
+      "yearsOfExperience": 7,
+      "avatar": "https://placehold.co/400",
+      "position": "Front-end Developer",
+      "foreignLanguage": [
+        "IELTS 7.0"
+      ],
+      "saveJob": []
+    },
+    {
+      "id": 8,
+      "firstName": "An",
+      "lastName": "Nguyen",
+      "email": "an.nguyen@gmail.com",
+      "userName": "annguyen",
+      "status": "active",
+      "createAt": null,
+      "updateAt": null,
+      "password": "$2a$10$5FLdf8zzp/lAQyEYGZx8EeSMRecUqVEBwuAlFK1V5vszvaaztwWD.",
+      "address": "Bắc Ninh",
+      "phone": "0987654321",
+      "role": "user",
+      "lock": false,
+      "permissionList": null,
+      "fullName": "An Nguyen",
+      "birthdate": "1992-01-01",
+      "gender": "female",
+      "level": "Junior",
+      "skills": "C++, Algorithms",
+      "yearsOfExperience": 3,
+      "avatar": "https://placehold.co/400",
+      "position": "Front-end Developer",
+      "foreignLanguage": [
+        "IELTS 7.0",
+        "IELTS 7.0"
+      ],
+      "saveJob": []
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": "hieu@gmail.com",
+      "userName": "hieu",
+      "status": "inActive",
+      "createAt": null,
+      "updateAt": null,
+      "password": "$2a$10$9ZVHvuo1Eo6LBi4uEgXIxu0i76KMpIsPoNLqO/ldMyX9k3jewMhue",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/avatars%2FScreenshot%202023-11-03%20012341.png?alt=media&token=73f2365c-9a7e-4f28-a351-43a5fb2a6372",
+      "address": null,
+      "phone": "098483829",
+      "role": "partner",
+      "lock": false,
+      "permissionList": null,
+      "foreignLanguage": [
+        "IELTS 7.0",
+        "IELTS 7.0"
+      ],
+      "yearsOfExperience": 2,
+      "skills": "networking ",
+      "gender": "male",
+      "birthdate": "1994-02-04",
+      "position": null,
+      "level": "Junior",
+      "id": 9,
+      "fullName": "trung hiếu ",
+      "saveJob": []
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": "test1@gmail.com",
+      "userName": "hieu1",
+      "status": "active",
+      "createAt": null,
+      "updateAt": null,
+      "password": "$2a$10$U804YLyoG8Mc7XpktBF6JexddUOqfcklk2hmbJkpQMh5BH0fsSjEe",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/avatars%2FScreenshot%202024-10-09%20084826.png?alt=media&token=8e219497-94a8-422d-b9a3-a01f20e408e9",
+      "address": null,
+      "phone": "0978479364",
+      "role": "user",
+      "deleteAt": null,
+      "permissionList": null,
+      "foreignLanguage": [
+        "IELTS 6.0"
+      ],
+      "yearsOfExperience": 4,
+      "skills": null,
+      "gender": "male",
+      "birthdate": "2005-01-11",
+      "position": "Back-end Developer",
+      "level": "Fresher",
+      "fullName": "Trung Hiếu1233",
+      "saveJob": [],
+      "lock": false,
+      "id": 30
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": "abc@gmail.com",
+      "userName": "abc",
+      "status": "active",
+      "createAt": null,
+      "updateAt": null,
+      "password": "$2a$10$Hntoc1BPLPxlT2YgAqQ6JuNU9gTTNhvrDpwvGu.VrSwIcossbEQBC",
+      "avatar": "https://placehold.co/400",
+      "address": null,
+      "phone": null,
+      "role": "user",
+      "deleteAt": null,
+      "permissionList": null,
+      "foreignLanguage": [
+        "IELTS 8.0"
+      ],
+      "yearsOfExperience": null,
+      "skills": null,
+      "gender": null,
+      "birthdate": null,
+      "position": "Tester",
+      "level": "Senior",
+      "fullName": "abc tester",
+      "saveJob": [],
+      "lock": false,
+      "id": 31
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": "ducluong@gmail.com",
+      "userName": "duc luong",
+      "status": "active",
+      "createAt": null,
+      "updateAt": null,
+      "password": "$2a$10$LwebxLu3HHAldw7SI.kmQOoKwGxa7fCna1YGnHUqCQGUsjp9CSwcy",
+      "avatar": "https://placehold.co/400",
+      "address": null,
+      "phone": "0392096054",
+      "role": "user",
+      "deleteAt": null,
+      "permissionList": null,
+      "foreignLanguage": [
+        "IELTS 6.0"
+      ],
+      "yearsOfExperience": 4,
+      "skills": "front-end",
+      "gender": "male",
+      "birthdate": "2005-11-23",
+      "position": "Intern",
+      "level": "Middle",
+      "fullName": "duc luong",
+      "saveJob": [],
+      "lock": false,
+      "id": 32
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": "haducluongdz@gmail.com",
+      "userName": "duc luong1",
+      "status": "inActive",
+      "createAt": null,
+      "updateAt": null,
+      "password": "$2a$10$qgJ1iaHJFLlswc5UOEk9ser10Wg2Vc7mgq/l1hEPiwcVXV7P7fB82",
+      "avatar": "https://placehold.co/400",
+      "address": null,
+      "phone": null,
+      "role": "user",
+      "deleteAt": null,
+      "permissionList": null,
+      "foreignLanguage": null,
+      "yearsOfExperience": null,
+      "skills": null,
+      "gender": null,
+      "birthdate": null,
+      "position": null,
+      "level": null,
+      "fullName": "hieu",
+      "saveJob": [],
+      "lock": false,
+      "id": 33
+    }
+  ],
+  "CertificateTypes": [
+    {
+      "id": 1,
+      "type": "TOEIC",
+      "value": [
+        "300-400 ",
+        "500-700 "
+      ],
+      "language": "Tiếng Anh",
+      "status": true,
+      "code": "e"
+    },
+    {
+      "id": 3,
+      "type": "JPLT3",
+      "value": [
+        "N5",
+        "N4",
+        "N3",
+        "N2",
+        "N8"
+      ]
+    },
+    {
+      "type": "IELTS",
+      "value": [
+        "3.0-5.0",
+        "7.0-9.0",
+        "5.0-7.0"
+      ],
+      "id": 1
+    }
+  ],
+  "UserCertificates": [
+    {
+      "certificateType": "JPLT3",
+      "certificateValue": "N3",
+      "receivedDate": "0444-01-31",
+      "expirationDate": "0033-12-31",
+      "userId": 2,
+      "certificateId": 3,
+      "id": 1
+    },
+    {
+      "certificateType": "JPLT3",
+      "certificateValue": "N2",
+      "receivedDate": "2017-02-08",
+      "expirationDate": "2022-11-23",
+      "userId": 2,
+      "certificateId": 3,
+      "id": 2
+    },
+    {
+      "certificateType": "TOEIC",
+      "certificateValue": "300-400 ",
+      "receivedDate": "2024-08-27",
+      "expirationDate": "2024-10-27",
+      "userId": 2,
+      "certificateId": 1,
+      "id": 3
+    }
+  ],
+  "cvLanguages": [
+    {
+      "language": "Tiếng Anh",
+      "code": "en",
+      "status": true,
+      "id": 1
+    },
+    {
+      "language": "Tiếng Nhật",
+      "code": "jp",
+      "status": true,
+      "id": 2
+    },
+    {
+      "language": "Tiếng Việt",
+      "code": "vn",
+      "status": false,
+      "id": 3
+    },
+    {
+      "language": "Tiếng Hàn",
+      "code": "kr",
+      "status": false,
+      "id": 4
+    },
+    {
+      "language": "Tiếng Trung ",
+      "code": "cn",
+      "status": false,
+      "id": 5
+    },
+    {
+      "language": "Tiếng ",
+      "code": "",
+      "status": false,
+      "id": 6
+    }
+  ],
+  "cvs": [
+    {
+      "languageId": 1,
+      "language": "Tiếng Anh",
+      "title": "3",
+      "pdf": "CV FRONTEND DEVELOPER1233333333333.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FCV%20FRONTEND%20DEVELOPER1233333333333.pdf?alt=media&token=afacb1db-cba6-472f-83ad-11c4745ea547",
+      "userId": 5,
+      "date": "11/11/2024, 6:34:46 PM",
+      "id": 36,
+      "status": true
+    },
+    {
+      "languageId": 2,
+      "language": "Tiếng Việt ",
+      "title": "12",
+      "pdf": "steve-jobs-resume.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2Fsteve-jobs-resume.pdf?alt=media&token=a82b0f17-ca9b-44d4-897e-7854fd4bc64c",
+      "userId": 1,
+      "date": "11/11/2024, 4:26:21 PM",
+      "id": 37,
+      "status": true
+    },
+    {
+      "languageId": 2,
+      "language": "Tiếng Việt ",
+      "title": "CV test",
+      "pdf": "Placeholder-PDF.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FPlaceholder-PDF.pdf?alt=media&token=c394037b-f14a-4b0e-b42e-c0b8f5b3451c",
+      "userId": 7,
+      "date": "11/9/2024, 4:17:22 PM",
+      "status": false,
+      "id": 40
+    },
+    {
+      "languageId": 2,
+      "language": "Tiếng Việt ",
+      "title": "13",
+      "pdf": "CV FRONTEND DEVELOPER1233333333333.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FCV%20FRONTEND%20DEVELOPER1233333333333.pdf?alt=media&token=c275f55e-077b-438e-8184-2fd859a2744c",
+      "userId": 1,
+      "date": "11/11/2024, 6:34:46 PM",
+      "status": true,
+      "id": 41
+    },
+    {
+      "languageId": 2,
+      "language": "Tiếng Việt ",
+      "title": "123",
+      "pdf": "steve-jobs-resume.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2Fsteve-jobs-resume.pdf?alt=media&token=72662c49-7c8e-4bc7-9d60-94fb7f0a2704",
+      "userId": 9,
+      "date": "11/11/2024, 4:26:21 PM",
+      "status": false,
+      "id": 42
+    },
+    {
+      "languageId": 2,
+      "language": "Tiếng Việt ",
+      "title": "123",
+      "pdf": "steve-jobs-resume.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2Fsteve-jobs-resume.pdf?alt=media&token=7f06b0a6-8020-4ba1-aaaa-980437f256eb",
+      "userId": 1,
+      "date": "11/11/2024, 4:26:21 PM",
+      "status": false,
+      "id": 44
+    },
+    {
+      "languageId": 1,
+      "language": "Tiếng Anh",
+      "title": "1234",
+      "pdf": "CV FRONTEND DEVELOPER1233333333333.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FCV%20FRONTEND%20DEVELOPER1233333333333.pdf?alt=media&token=9a1d3ff0-2a03-4f64-b32e-df6698c97d28",
+      "userId": 1,
+      "date": "11/11/2024, 6:34:46 PM",
+      "status": false,
+      "id": 45
+    },
+    {
+      "languageId": 4,
+      "language": "Tiếng Việt ",
+      "title": "123",
+      "pdf": "Tài liệu không có tiêu đề.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FT%C3%A0i%20li%E1%BB%87u%20kh%C3%B4ng%20c%C3%B3%20ti%C3%AAu%20%C4%91%E1%BB%81.pdf?alt=media&token=a585a9ad-7bbb-4606-9be0-24a64b27079c",
+      "userId": 2,
+      "date": "11/13/2024, 9:45:09 AM",
+      "status": true,
+      "id": 472
+    },
+    {
+      "languageId": 2,
+      "language": "Tiếng Việt ",
+      "title": "123",
+      "pdf": "Tài liệu không có tiêu đề.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FT%C3%A0i%20li%E1%BB%87u%20kh%C3%B4ng%20c%C3%B3%20ti%C3%AAu%20%C4%91%E1%BB%81.pdf?alt=media&token=34f94f4e-4201-4268-b3bc-43237dda948b",
+      "userId": 1,
+      "date": "11/13/2024, 9:45:09 AM",
+      "status": false,
+      "id": 472
+    },
+    {
+      "languageId": 1,
+      "language": "Tiếng Anh",
+      "title": "e",
+      "pdf": "Placeholder-PDF.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FPlaceholder-PDF.pdf?alt=media&token=1ed165fa-1f6b-4643-b3ce-1f54d2a84128",
+      "userId": 4,
+      "date": "11/9/2024, 4:17:22 PM",
+      "status": true,
+      "id": 49
+    },
+    {
+      "languageId": 2,
+      "language": "Tiếng Nhật",
+      "title": "test",
+      "pdf": "Tài liệu không có tiêu đề.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FT%C3%A0i%20li%E1%BB%87u%20kh%C3%B4ng%20c%C3%B3%20ti%C3%AAu%20%C4%91%E1%BB%81.pdf?alt=media&token=6fa49cea-25ac-4258-aa42-41bd8e4bb82f",
+      "userId": 2,
+      "date": "11/13/2024, 9:45:09 AM",
+      "status": true,
+      "id": 2
+    },
+    {
+      "languageId": 1,
+      "language": "Tiếng Anh",
+      "title": "test",
+      "pdf": "steve-jobs-resume.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2Fsteve-jobs-resume.pdf?alt=media&token=7a8ecfce-4499-4bfb-a711-3c701e96928d",
+      "userId": 2,
+      "date": "11/11/2024, 4:26:21 PM",
+      "status": true,
+      "id": 50
+    },
+    {
+      "languageId": 1,
+      "language": "Tiếng Anh",
+      "title": "abc",
+      "pdf": "D23DTCN155 - Hạ Đức Lương.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FD23DTCN155%20-%20H%E1%BA%A1%20%C4%90%E1%BB%A9c%20L%C6%B0%C6%A1ng.pdf?alt=media&token=a99eb323-ca76-4a9b-b438-8ea21dcae255",
+      "userId": 4,
+      "date": "21:47:45 10/11/2024",
+      "status": false,
+      "id": 51
+    },
+    {
+      "languageId": 4,
+      "language": "Tiếng Hàn",
+      "title": "a1c",
+      "pdf": "D23DTCN155 - Hạ Đức Lương.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FD23DTCN155%20-%20H%E1%BA%A1%20%C4%90%E1%BB%A9c%20L%C6%B0%C6%A1ng.pdf?alt=media&token=7ab9c619-9a6e-42e5-a1cd-3c49a111c9c3",
+      "userId": 31,
+      "date": "21:47:45 10/11/2024",
+      "status": true,
+      "id": 52
+    },
+    {
+      "languageId": 1,
+      "language": "Tiếng Anh",
+      "title": "demo",
+      "pdf": "D23DTCN155 - Hạ Đức Lương.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FD23DTCN155%20-%20H%E1%BA%A1%20%C4%90%E1%BB%A9c%20L%C6%B0%C6%A1ng.pdf?alt=media&token=6a837dad-58c4-4e11-8e63-c55e3bdc1bc3",
+      "userId": 32,
+      "date": "21:47:45 10/11/2024",
+      "status": true,
+      "id": 53
+    },
+    {
+      "languageId": 3,
+      "language": "Tiếng Việt",
+      "title": "y",
+      "pdf": "D23DTCN155 - Hạ Đức Lương.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FD23DTCN155%20-%20H%E1%BA%A1%20%C4%90%E1%BB%A9c%20L%C6%B0%C6%A1ng.pdf?alt=media&token=d6608113-960c-4325-b054-f8adc2cd734c",
+      "userId": 32,
+      "date": "21:47:45 10/11/2024",
+      "status": true,
+      "id": 54
+    },
+    {
+      "languageId": 3,
+      "language": "Tiếng Việt",
+      "title": "123",
+      "pdf": "D23DTCN155 - Hạ Đức Lương.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FD23DTCN155%20-%20H%E1%BA%A1%20%C4%90%E1%BB%A9c%20L%C6%B0%C6%A1ng.pdf?alt=media&token=f737a457-a549-474c-8fff-fc25d0ec705f",
+      "userId": 6,
+      "date": "21:47:45 10/11/2024",
+      "status": true,
+      "id": 55
+    },
+    {
+      "languageId": 1,
+      "language": "Tiếng Anh",
+      "title": "Abcxyz",
+      "pdf": "MAir_Test case v1.0.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FMAir_Test%20case%20v1.0.pdf?alt=media&token=204e47ab-6971-4811-98a1-b81f43d1ad80",
+      "userId": 10,
+      "date": "11/19/2024, 8:52:22 AM",
+      "status": true,
+      "id": 56
+    },
+    {
+      "languageId": 2,
+      "language": "Tiếng Nhật",
+      "title": "12312321",
+      "pdf": "MAir_Test case v1.0.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FMAir_Test%20case%20v1.0.pdf?alt=media&token=ce91bef7-f57f-47dd-8d02-f730fda76a9b",
+      "userId": 2,
+      "date": "11/19/2024, 8:52:22 AM",
+      "status": true,
+      "id": 57
+    },
+    {
+      "languageId": 1,
+      "language": "Tiếng Anh",
+      "title": "test",
+      "pdf": "B23DTCN155-Hạ Đức Lương.pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FB23DTCN155-H%E1%BA%A1%20%C4%90%E1%BB%A9c%20L%C6%B0%C6%A1ng.pdf?alt=media&token=ab9ef635-0e0a-4cca-bf2a-71590207fcd8",
+      "userId": 33,
+      "date": "19:18:16 18/12/2024",
+      "status": true,
+      "id": 473
+    },
+    {
+      "languageId": 2,
+      "language": "Tiếng Nhật",
+      "title": "test1",
+      "pdf": "B23DTCN155-Hạ Đức Lương (1).pdf",
+      "pdfDataUrl": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/cvs%2FB23DTCN155-H%E1%BA%A1%20%C4%90%E1%BB%A9c%20L%C6%B0%C6%A1ng%20(1).pdf?alt=media&token=51dcb5e4-8c97-40f2-a02b-974ecdabeb99",
+      "userId": 33,
+      "date": "19:19:40 18/12/2024",
+      "status": false,
+      "id": 474
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Junior Developer",
+      "quantity": 5,
+      "description": [
+        "Tìm kiếm lập trình viên Junior",
+        "Tìm kiếm lập trình viên Junior",
+        "Tìm kiếm lập trình viên Junior"
+      ],
+      "rank": [
+        "Junior"
+      ],
+      "gender": "Không yêu cầu",
+      "skills": "Trung cấp",
+      "salaryCurrent": "VND",
+      "salary": "15 triệu",
+      "province": "Thành phố Hồ Chí Minh",
+      "district": "Quận 1",
+      "image": "https://s3-alpha-sig.figma.com/img/4640/473b/d2632c98557e42d135e3df42f3b52a63?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nHU4u4eIJtWYbOQrC1GtXU9fP3ZMOMDprMLnhBLDY8n12AdUEOSGIFQAecSC5~cndvsaLv9RSJXqJ9hIQm2zCyl9HFk8rNfopH6Ato3T6lbG0ZSZBYf93gXEjRmmAyKiWGa-WANU5BNOwmTOk2lADZCZOkNpdF97EChNP9jzZ-B7VqhPaHuPukbP~E4kUkyagkke9YQMIqTNfO1g~o15tAP11DcZOt03qPkq7W9UXDsT8yYTqmO2z2cAa~AxYKn83DLpr1SkA~RcwfBj1kKbR4ahBl2Hxr6WULC4eIsy6QhLL0tgdhrxXRezYbRCLAiauJhKakkVwoYofss7UITXaA__",
+      "address": "123 Nguyễn Huệ",
+      "benefitsDescription": [
+        "Lương tháng 13, bảo hiểm đầy đủ",
+        "Lương tháng 13, bảo hiểm đầy đủ",
+        "Lương tháng 13, bảo hiểm đầy đủ"
+      ],
+      "workingTime": "Full time",
+      "deadline": "30/11/2024",
+      "required": [
+        "Có kinh nghiệm JavaScript",
+        "Có kinh nghiệm JavaScript",
+        "Có kinh nghiệm JavaScript"
+      ],
+      "industry": "IT",
+      "enterpriseId": 4,
+      "flight": "verified",
+      "updateDate": "2024-11-20T03:00:00.000Z",
+      "id": 29
+    },
+    {
+      "title": "Graphic Designer",
+      "quantity": 3,
+      "description": [
+        "Thiết kế đồ họa sáng tạo",
+        "Thiết kế đồ họa sáng tạo",
+        "Thiết kế đồ họa sáng tạo"
+      ],
+      "rank": [
+        "Senior"
+      ],
+      "gender": "Không yêu cầu",
+      "skills": "Sơ cấp",
+      "salaryCurrent": "VND",
+      "salary": "30 triệu",
+      "province": "Thành phố Hà Nội",
+      "district": "Quận Hoàn Kiếm",
+      "image": "https://s3-alpha-sig.figma.com/img/4640/473b/d2632c98557e42d135e3df42f3b52a63?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nHU4u4eIJtWYbOQrC1GtXU9fP3ZMOMDprMLnhBLDY8n12AdUEOSGIFQAecSC5~cndvsaLv9RSJXqJ9hIQm2zCyl9HFk8rNfopH6Ato3T6lbG0ZSZBYf93gXEjRmmAyKiWGa-WANU5BNOwmTOk2lADZCZOkNpdF97EChNP9jzZ-B7VqhPaHuPukbP~E4kUkyagkke9YQMIqTNfO1g~o15tAP11DcZOt03qPkq7W9UXDsT8yYTqmO2z2cAa~AxYKn83DLpr1SkA~RcwfBj1kKbR4ahBl2Hxr6WULC4eIsy6QhLL0tgdhrxXRezYbRCLAiauJhKakkVwoYofss7UITXaA__",
+      "address": "456 Trần Hưng Đạo",
+      "benefitsDescription": [
+        "Làm việc từ xa, nghỉ phép linh hoạt",
+        "Làm việc từ xa, nghỉ phép linh hoạt",
+        "Làm việc từ xa, nghỉ phép linh hoạt"
+      ],
+      "workingTime": "Remote",
+      "deadline": "15/12/2024",
+      "required": [
+        "Thành thạo Photoshop, Illustrator",
+        "Thành thạo Photoshop, Illustrator",
+        "Thành thạo Photoshop, Illustrator"
+      ],
+      "industry": "Design",
+      "enterpriseId": 5,
+      "flight": "verified",
+      "updateDate": "2024-11-21T03:00:00.000Z",
+      "id": 30
+    },
+    {
+      "title": "Content Creator",
+      "quantity": 2,
+      "description": [
+        "Sáng tạo nội dung cho mạng xã hội",
+        "Sáng tạo nội dung cho mạng xã hội",
+        "Sáng tạo nội dung cho mạng xã hội"
+      ],
+      "rank": [
+        "Fresher"
+      ],
+      "gender": "Không yêu cầu",
+      "skills": "Trung cấp",
+      "salaryCurrent": "VND",
+      "salary": "10 triệu",
+      "province": "Thành phố Đà Nẵng",
+      "district": "Quận Hải Châu",
+      "image": "https://s3-alpha-sig.figma.com/img/4640/473b/d2632c98557e42d135e3df42f3b52a63?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nHU4u4eIJtWYbOQrC1GtXU9fP3ZMOMDprMLnhBLDY8n12AdUEOSGIFQAecSC5~cndvsaLv9RSJXqJ9hIQm2zCyl9HFk8rNfopH6Ato3T6lbG0ZSZBYf93gXEjRmmAyKiWGa-WANU5BNOwmTOk2lADZCZOkNpdF97EChNP9jzZ-B7VqhPaHuPukbP~E4kUkyagkke9YQMIqTNfO1g~o15tAP11DcZOt03qPkq7W9UXDsT8yYTqmO2z2cAa~AxYKn83DLpr1SkA~RcwfBj1kKbR4ahBl2Hxr6WULC4eIsy6QhLL0tgdhrxXRezYbRCLAiauJhKakkVwoYofss7UITXaA__",
+      "address": "789 Lê Duẩn",
+      "benefitsDescription": [
+        "Thưởng KPI, làm việc trẻ trung",
+        "Thưởng KPI, làm việc trẻ trung",
+        "Thưởng KPI, làm việc trẻ trung"
+      ],
+      "workingTime": "Part time",
+      "deadline": "25/11/2024",
+      "required": [
+        "Có kinh nghiệm làm nội dung sáng tạo",
+        "Có kinh nghiệm làm nội dung sáng tạo",
+        "Có kinh nghiệm làm nội dung sáng tạo"
+      ],
+      "industry": "Marketing",
+      "enterpriseId": 6,
+      "flight": "pending",
+      "updateDate": "2024-11-19T03:00:00.000Z",
+      "id": 31
+    },
+    {
+      "title": "Digital Marketer",
+      "quantity": 7,
+      "description": [
+        "Chuyên viên tiếp thị số",
+        "Chuyên viên tiếp thị số",
+        "Chuyên viên tiếp thị số"
+      ],
+      "rank": [
+        "Lead"
+      ],
+      "gender": "Không yêu cầu",
+      "skills": "Nâng cao",
+      "salaryCurrent": "VND",
+      "salary": "20 triệu",
+      "province": "Thành phố Hồ Chí Minh",
+      "district": "Quận Bình Thạnh",
+      "image": "https://s3-alpha-sig.figma.com/img/3c70/8648/59ae9ec9f5d9afe4446f705b1caa028c?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HtHEtHcHYKSXI8k6pzYE~~V-ExjSHiNyWXOCO00b4kKFullO0hfz2vW3fDOqoLOpasJ29a-Xdz0cbzxkJIx3UG0WcwAYHVc9zMNk0qa~TqZdENaqjxYvF7jJDPK6a9eXc-9bBeQfmetowiKol2XyKphO-A3KQf4xiWKv5meuM7ALorBVjCjYlkeCBIdAwXq7oLAbYZ-~crsS9ZCMVlVvvDhGAsl42lKdfKE4gQsZZVLXCFKek1RBaWj6DDNM21k3yhTqAStGVyZEWLLmlSzPxcGrAj53~NiApQgorxQDSYAaYxGnSNKpUPoFgtgsH0GJIxmneIKJAovmu8muPY~RpA__",
+      "address": "345 Xô Viết Nghệ Tĩnh",
+      "benefitsDescription": [
+        "Đào tạo chuyên sâu, team năng động",
+        "Đào tạo chuyên sâu, team năng động",
+        "Đào tạo chuyên sâu, team năng động"
+      ],
+      "workingTime": "Full time",
+      "deadline": "01/12/2024",
+      "required": [
+        "Hiểu biết về SEO, Google Ads",
+        "Hiểu biết về SEO, Google Ads",
+        "Hiểu biết về SEO, Google Ads"
+      ],
+      "industry": "Marketing",
+      "enterpriseId": 7,
+      "flight": "verified",
+      "updateDate": "2024-11-22T03:00:00.000Z",
+      "id": 32
+    },
+    {
+      "title": "Content Creator",
+      "quantity": 5,
+      "description": [
+        "Chuyên viên sáng tạo nội dung",
+        "Chuyên viên sáng tạo nội dung",
+        "Chuyên viên sáng tạo nội dung"
+      ],
+      "rank": [
+        "Senior"
+      ],
+      "gender": "Không yêu cầu",
+      "skills": "Trung cấp",
+      "salaryCurrent": "VND",
+      "salary": "18 triệu",
+      "province": "Thành phố Hà Nội",
+      "district": "Quận Cầu Giấy",
+      "image": "https://s3-alpha-sig.figma.com/img/3c70/8648/59ae9ec9f5d9afe4446f705b1caa028c?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HtHEtHcHYKSXI8k6pzYE~~V-ExjSHiNyWXOCO00b4kKFullO0hfz2vW3fDOqoLOpasJ29a-Xdz0cbzxkJIx3UG0WcwAYHVc9zMNk0qa~TqZdENaqjxYvF7jJDPK6a9eXc-9bBeQfmetowiKol2XyKphO-A3KQf4xiWKv5meuM7ALorBVjCjYlkeCBIdAwXq7oLAbYZ-~crsS9ZCMVlVvvDhGAsl42lKdfKE4gQsZZVLXCFKek1RBaWj6DDNM21k3yhTqAStGVyZEWLLmlSzPxcGrAj53~NiApQgorxQDSYAaYxGnSNKpUPoFgtgsH0GJIxmneIKJAovmu8muPY~RpA__",
+      "address": "120 Xuân Thủy",
+      "benefitsDescription": [
+        "Môi trường làm việc chuyên nghiệp",
+        "Hỗ trợ ăn trưa, gửi xe miễn phí",
+        "Thưởng cuối năm hấp dẫn"
+      ],
+      "workingTime": "Part time",
+      "deadline": "15/12/2024",
+      "required": [
+        "Kỹ năng viết tốt, sáng tạo",
+        "Kỹ năng biên tập nội dung cơ bản",
+        "Hiểu biết cơ bản về SEO"
+      ],
+      "industry": "Marketing",
+      "enterpriseId": 10,
+      "flight": "verified",
+      "updateDate": "2024-11-23T03:00:00.000Z",
+      "id": 33
+    },
+    {
+      "title": "Graphic Designer",
+      "quantity": 3,
+      "description": [
+        "Thiết kế đồ họa chuyên nghiệp",
+        "Sử dụng thành thạo các phần mềm thiết kế",
+        "Làm việc sáng tạo, chủ động"
+      ],
+      "rank": [
+        "Lead"
+      ],
+      "gender": "Không yêu cầu",
+      "skills": "Nâng cao",
+      "salaryCurrent": "VND",
+      "salary": "22 triệu",
+      "province": "Thành phố Đà Nẵng",
+      "district": "Quận Hải Châu",
+      "image": "https://s3-alpha-sig.figma.com/img/3c70/8648/59ae9ec9f5d9afe4446f705b1caa028c?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HtHEtHcHYKSXI8k6pzYE~~V-ExjSHiNyWXOCO00b4kKFullO0hfz2vW3fDOqoLOpasJ29a-Xdz0cbzxkJIx3UG0WcwAYHVc9zMNk0qa~TqZdENaqjxYvF7jJDPK6a9eXc-9bBeQfmetowiKol2XyKphO-A3KQf4xiWKv5meuM7ALorBVjCjYlkeCBIdAwXq7oLAbYZ-~crsS9ZCMVlVvvDhGAsl42lKdfKE4gQsZZVLXCFKek1RBaWj6DDNM21k3yhTqAStGVyZEWLLmlSzPxcGrAj53~NiApQgorxQDSYAaYxGnSNKpUPoFgtgsH0GJIxmneIKJAovmu8muPY~RpA__",
+      "address": "45 Nguyễn Văn Linh",
+      "benefitsDescription": [
+        "Tham gia các khóa đào tạo nâng cao",
+        "Thưởng dự án hấp dẫn",
+        "Nghỉ phép năm đầy đủ"
+      ],
+      "workingTime": "Full time",
+      "deadline": "20/12/2024",
+      "required": [
+        "Sử dụng tốt Adobe Photoshop, Illustrator",
+        "Kỹ năng sáng tạo tốt",
+        "Kinh nghiệm làm việc nhóm"
+      ],
+      "industry": "Design",
+      "enterpriseId": 5,
+      "flight": "verified",
+      "updateDate": "2024-11-24T03:00:00.000Z",
+      "id": 34
+    },
+    {
+      "title": "Sales IT ",
+      "quantity": 4,
+      "description": [
+        "Chuyên viên kinh doanh IT tại Việt Nam",
+        "Kỹ năng giao tiếp và thuyết phục tốt",
+        "Làm việc với khách hàng doanh nghiệp"
+      ],
+      "rank": [
+        "Fresher"
+      ],
+      "gender": "Không yêu cầu",
+      "skills": "Cơ bản",
+      "salaryCurrent": "VND",
+      "salary": "15 - 20 triệu",
+      "province": "Thành phố Hồ Chí Minh",
+      "district": "Quận 1",
+      "image": "https://s3-alpha-sig.figma.com/img/3c70/8648/59ae9ec9f5d9afe4446f705b1caa028c?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HtHEtHcHYKSXI8k6pzYE~~V-ExjSHiNyWXOCO00b4kKFullO0hfz2vW3fDOqoLOpasJ29a-Xdz0cbzxkJIx3UG0WcwAYHVc9zMNk0qa~TqZdENaqjxYvF7jJDPK6a9eXc-9bBeQfmetowiKol2XyKphO-A3KQf4xiWKv5meuM7ALorBVjCjYlkeCBIdAwXq7oLAbYZ-~crsS9ZCMVlVvvDhGAsl42lKdfKE4gQsZZVLXCFKek1RBaWj6DDNM21k3yhTqAStGVyZEWLLmlSzPxcGrAj53~NiApQgorxQDSYAaYxGnSNKpUPoFgtgsH0GJIxmneIKJAovmu8muPY~RpA__",
+      "address": "123 Lê Lợi",
+      "benefitsDescription": [
+        "Thưởng dự án hấp dẫn",
+        "Cơ hội thăng tiến trong công việc",
+        "Bảo hiểm xã hội đầy đủ"
+      ],
+      "workingTime": "Full time",
+      "deadline": "15/12/2024",
+      "required": [
+        "Kỹ năng giao tiếp tốt",
+        "Hiểu biết cơ bản về IT",
+        "Kỹ năng làm việc nhóm"
+      ],
+      "industry": "Sales",
+      "enterpriseId": 1,
+      "flight": "verified",
+      "updateDate": "2024-11-25T03:00:00.000Z",
+      "id": 35
+    },
+    {
+      "title": "Marketing Executive ",
+      "quantity": 3,
+      "description": [
+        "Chuyên viên tiếp thị tại thị trường Hà Nội",
+        "Kỹ năng lập kế hoạch và phân tích thị trường",
+        "Làm việc sáng tạo, chủ động"
+      ],
+      "rank": [
+        "Junior"
+      ],
+      "gender": "Không yêu cầu",
+      "skills": "Nâng cao",
+      "salaryCurrent": "VND",
+      "salary": "18 - 25 triệu",
+      "province": "Thành phố Hà Nội",
+      "district": "Quận Hoàn Kiếm",
+      "image": "https://s3-alpha-sig.figma.com/img/3c70/8648/59ae9ec9f5d9afe4446f705b1caa028c?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HtHEtHcHYKSXI8k6pzYE~~V-ExjSHiNyWXOCO00b4kKFullO0hfz2vW3fDOqoLOpasJ29a-Xdz0cbzxkJIx3UG0WcwAYHVc9zMNk0qa~TqZdENaqjxYvF7jJDPK6a9eXc-9bBeQfmetowiKol2XyKphO-A3KQf4xiWKv5meuM7ALorBVjCjYlkeCBIdAwXq7oLAbYZ-~crsS9ZCMVlVvvDhGAsl42lKdfKE4gQsZZVLXCFKek1RBaWj6DDNM21k3yhTqAStGVyZEWLLmlSzPxcGrAj53~NiApQgorxQDSYAaYxGnSNKpUPoFgtgsH0GJIxmneIKJAovmu8muPY~RpA__",
+      "address": "45 Tràng Tiền",
+      "benefitsDescription": [
+        "Môi trường làm việc năng động",
+        "Thưởng cuối năm hấp dẫn",
+        "Hỗ trợ đào tạo chuyên môn"
+      ],
+      "workingTime": "Full time",
+      "deadline": "20/12/2024",
+      "required": [
+        "Kinh nghiệm trong lĩnh vực marketing",
+        "Kỹ năng giao tiếp tốt",
+        "Khả năng làm việc độc lập"
+      ],
+      "industry": "Marketing",
+      "enterpriseId": 2,
+      "flight": "verified",
+      "updateDate": "2024-11-25T03:00:00.000Z",
+      "id": 36
+    },
+    {
+      "title": "Senior .NET Developer ",
+      "quantity": 2,
+      "description": [
+        "Lập trình viên .NET cấp cao",
+        "Tham gia phát triển phần mềm theo yêu cầu",
+        "Hỗ trợ bảo trì và nâng cấp hệ thống"
+      ],
+      "rank": [
+        "Senior"
+      ],
+      "gender": "Không yêu cầu",
+      "skills": "Chuyên sâu",
+      "salaryCurrent": "VND",
+      "salary": "30 - 40 triệu",
+      "province": "Thành phố Đà Nẵng",
+      "district": "Quận Hải Châu",
+      "image": "https://s3-alpha-sig.figma.com/img/3c70/8648/59ae9ec9f5d9afe4446f705b1caa028c?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HtHEtHcHYKSXI8k6pzYE~~V-ExjSHiNyWXOCO00b4kKFullO0hfz2vW3fDOqoLOpasJ29a-Xdz0cbzxkJIx3UG0WcwAYHVc9zMNk0qa~TqZdENaqjxYvF7jJDPK6a9eXc-9bBeQfmetowiKol2XyKphO-A3KQf4xiWKv5meuM7ALorBVjCjYlkeCBIdAwXq7oLAbYZ-~crsS9ZCMVlVvvDhGAsl42lKdfKE4gQsZZVLXCFKek1RBaWj6DDNM21k3yhTqAStGVyZEWLLmlSzPxcGrAj53~NiApQgorxQDSYAaYxGnSNKpUPoFgtgsH0GJIxmneIKJAovmu8muPY~RpA__",
+      "address": "678 Nguyễn Văn Linh",
+      "benefitsDescription": [
+        "Lương tháng 13 và thưởng dự án",
+        "Môi trường làm việc chuyên nghiệp",
+        "Chế độ nghỉ phép hấp dẫn"
+      ],
+      "workingTime": "Full time",
+      "deadline": "25/12/2024",
+      "required": [
+        "Thành thạo ngôn ngữ lập trình .NET",
+        "Hiểu biết về cơ sở dữ liệu SQL",
+        "Kinh nghiệm phát triển phần mềm"
+      ],
+      "industry": "IT",
+      "enterpriseId": 3,
+      "flight": "verified",
+      "updateDate": "2024-11-25T03:00:00.000Z",
+      "id": 37
+    },
+    {
+      "title": "Java Developer",
+      "quantity": 3,
+      "description": [
+        "Lập trình viên Java tại Cần Thơ",
+        "Tham gia vào các dự án phát triển phần mềm",
+        "Làm việc với đội nhóm phát triển chuyên nghiệp"
+      ],
+      "rank": [
+        "Junior"
+      ],
+      "gender": "Không yêu cầu",
+      "skills": "Nâng cao",
+      "salaryCurrent": "VND",
+      "salary": "20 - 25 triệu",
+      "province": "Thành phố Cần Thơ",
+      "district": "Quận Ninh Kiều",
+      "image": "https://s3-alpha-sig.figma.com/img/3c70/8648/59ae9ec9f5d9afe4446f705b1caa028c?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HtHEtHcHYKSXI8k6pzYE~~V-ExjSHiNyWXOCO00b4kKFullO0hfz2vW3fDOqoLOpasJ29a-Xdz0cbzxkJIx3UG0WcwAYHVc9zMNk0qa~TqZdENaqjxYvF7jJDPK6a9eXc-9bBeQfmetowiKol2XyKphO-A3KQf4xiWKv5meuM7ALorBVjCjYlkeCBIdAwXq7oLAbYZ-~crsS9ZCMVlVvvDhGAsl42lKdfKE4gQsZZVLXCFKek1RBaWj6DDNM21k3yhTqAStGVyZEWLLmlSzPxcGrAj53~NiApQgorxQDSYAaYxGnSNKpUPoFgtgsH0GJIxmneIKJAovmu8muPY~RpA__",
+      "address": "23 Nguyễn Trãi",
+      "benefitsDescription": [
+        "Cơ hội học hỏi công nghệ mới",
+        "Tham gia các buổi training nội bộ",
+        "Thưởng dự án và bảo hiểm đầy đủ"
+      ],
+      "workingTime": "Full time",
+      "deadline": "30/12/2024",
+      "required": [
+        "Thành thạo ngôn ngữ lập trình Java",
+        "Hiểu biết về Spring Framework",
+        "Khả năng làm việc nhóm tốt"
+      ],
+      "industry": "IT",
+      "enterpriseId": 4,
+      "flight": "verified",
+      "updateDate": "2024-11-25T03:00:00.000Z",
+      "id": 38
+    },
+    {
+      "title": "Kỹ sư IT",
+      "quantity": 5,
+      "description": [
+        "Kỹ sư cơ khí chuyên thiết kế và vận hành máy móc",
+        "Tham gia bảo trì và sửa chữa thiết bị công nghiệp",
+        "Hỗ trợ nghiên cứu phát triển sản phẩm mới"
+      ],
+      "rank": [
+        "Middle"
+      ],
+      "gender": "Không yêu cầu",
+      "skills": "Nâng cao",
+      "salaryCurrent": "VND",
+      "salary": "18 - 22 triệu",
+      "province": "Thành phố Hải Phòng",
+      "district": "Quận Ngô Quyền",
+      "image": "https://s3-alpha-sig.figma.com/img/3c70/8648/59ae9ec9f5d9afe4446f705b1caa028c?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HtHEtHcHYKSXI8k6pzYE~~V-ExjSHiNyWXOCO00b4kKFullO0hfz2vW3fDOqoLOpasJ29a-Xdz0cbzxkJIx3UG0WcwAYHVc9zMNk0qa~TqZdENaqjxYvF7jJDPK6a9eXc-9bBeQfmetowiKol2XyKphO-A3KQf4xiWKv5meuM7ALorBVjCjYlkeCBIdAwXq7oLAbYZ-~crsS9ZCMVlVvvDhGAsl42lKdfKE4gQsZZVLXCFKek1RBaWj6DDNM21k3yhTqAStGVyZEWLLmlSzPxcGrAj53~NiApQgorxQDSYAaYxGnSNKpUPoFgtgsH0GJIxmneIKJAovmu8muPY~RpA__",
+      "address": "50 Lạch Tray",
+      "benefitsDescription": [
+        "Hỗ trợ chi phí ăn trưa và đi lại",
+        "Thưởng lễ, Tết và chế độ bảo hiểm đầy đủ",
+        "Cơ hội thăng tiến rõ ràng"
+      ],
+      "workingTime": "Full time",
+      "deadline": "05/01/2025",
+      "required": [
+        "Kiến thức vững về IT",
+        "Kinh nghiệm làm việc với máy CNC",
+        "Kỹ năng đọc hiểu bản vẽ kỹ thuật"
+      ],
+      "industry": "IT",
+      "enterpriseId": 5,
+      "flight": "verified",
+      "updateDate": "2024-11-25T03:00:00.000Z",
+      "id": 39
+    },
+    {
+      "title": "Nhân viên IT",
+      "quantity": 2,
+      "description": [
+        "Nhân viên IT tổng hợp tại Thừa Thiên Huế",
+        "Quản lý sổ sách và báo cáo tài chính",
+        "Hỗ trợ kiểm toán nội bộ khi cần thiết"
+      ],
+      "rank": [
+        "Senior"
+      ],
+      "gender": "Không yêu cầu",
+      "skills": "Chuyên sâu",
+      "salaryCurrent": "VND",
+      "salary": "15 - 18 triệu",
+      "province": "Tỉnh Thừa Thiên Huế",
+      "district": "Phường 3",
+      "image": "https://s3-alpha-sig.figma.com/img/9137/76da/215d674b718b5eb4c76bc2205ee80fcf?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TAToxC7bfNfLkuAqzyJVAYs4wFhUbB25FeONvQZz~GW6JtnTnlO9YdCkSyEd5Tj14fM2McuCo4aXYt461xQAVO2w4dfqqU0TyAeKf65Q1UOb5Fj7e8nr7oV~xGcbjxcnX9LUf8xISQhycgxlpgK50wxwd5qmEMKSaPgtfnjM7ZQsRF0m6L309GRwfgWbmEn2rM261ZTwrphbhuEYkACirQx4O6qGIkYWnVPDyjVJwh~ac0E0E3Er15Lp9yQ7EfScnn6JSu81elowFJa4l3eut5HW5vZ6D5F7nrdUmOUERAcruun6SVmMIcW8Cc9NdKXX6uFaCoy69Gw4jKgZBSg44Q__",
+      "address": "35 Phan Đình Phùng",
+      "benefitsDescription": [
+        "Chế độ nghỉ phép hấp dẫn",
+        "Hỗ trợ đào tạo nâng cao chuyên môn",
+        "Thưởng cuối năm dựa trên hiệu quả công việc"
+      ],
+      "workingTime": "Full time",
+      "deadline": "10/01/2025",
+      "required": [
+        "Kinh nghiệm làm kế toán tổng hợp từ 3 năm trở lên",
+        "Sử dụng thành thạo phần mềm kế toán",
+        "Khả năng phân tích và lập báo cáo tài chính"
+      ],
+      "industry": "IT",
+      "enterpriseId": 6,
+      "flight": "verified",
+      "updateDate": "2024-11-25T03:00:00.000Z",
+      "id": 40
+    },
+    {
+      "title": "Lap Trinh Web",
+      "quantity": 10,
+      "description": "Luong cao",
+      "rank": [
+        "Fresher"
+      ],
+      "gender": "Nam",
+      "skills": "Sơ cấp",
+      "salaryCurrent": "VND",
+      "salary": "10 triệu ",
+      "province": "Thành phố Hà Nội",
+      "district": "Quận Ba Đình",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/uploads%2Fuploaded_image_1735024680340.png?alt=media&token=22d31796-dc43-48e0-99db-fe4eb6dc73dc",
+      "address": "Hà Đông",
+      "benefitsDescription": "Hoc tot",
+      "workingTime": "Part time",
+      "deadline": "27/12/2024",
+      "required": "hỌC GIỎI",
+      "industry": "IT",
+      "enterpriseId": 2,
+      "flight": "verified",
+      "updateDate": "2024-12-24T07:19:19.399Z",
+      "id": 41
+    }
+  ],
+  "enterprises": [
+    {
+      "title": "Công ty của Hiếu",
+      "email": "nguyentrunghieu@gmail.com",
+      "companySize": "3000",
+      "phoneNumber": "0998888898",
+      "industry": "CNTT",
+      "introduction": "Công ty tốt",
+      "websiteUrl": "https://clientdev.mieusoft.com/enterprise/10/dashboard/information",
+      "facebookUrl": "https://clientdev.mieusoft.com/enterprise/10/dashboard/information",
+      "linkedinUrl": "https://clientdev.mieusoft.com/enterprise/10/dashboard/information",
+      "twitterUrl": "https://clientdev.mieusoft.com/enterprise/10/dashboard/information",
+      "businessLicense": "846392",
+      "address": "Số 10 Trần Phú",
+      "userId": 6,
+      "avatar": "https://placehold.co/400",
+      "status": "blocked",
+      "id": 1
+    },
+    {
+      "title": "THNHH hieu",
+      "email": "h@gmail.com",
+      "companySize": "3000",
+      "phoneNumber": "0934827648",
+      "industry": "Sale",
+      "introduction": "123",
+      "websiteUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat",
+      "facebookUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat",
+      "linkedinUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat",
+      "twitterUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat",
+      "businessLicense": "3213",
+      "address": "4214",
+      "userId": 9,
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/ptit-k5-5b7cb.appspot.com/o/enterprises%2Fenterprise_2_1732351531457.png?alt=media&token=1fbe0a32-86da-4759-92cc-d1214b8c6994",
+      "status": "verified",
+      "id": 2
+    }
+  ],
+  "interview-bookings": [
+    {
+      "id": 2,
+      "enterpriseId": 2,
+      "jobId": 27,
+      "time": "15:15",
+      "date": "15/10/2024",
+      "userId": 1,
+      "status": "Enterprise Verified",
+      "createAt": "10/10/2024",
+      "meetingLink": "https://us05web.zoom.us/j/89287588349?pwd=FCfKDaE4Nig00lzgoP5aveJIwsjpqf.1",
+      "updateStatusTime": [
+        "11/24/2024, 12:48:38 AM",
+        "11/24/2024, 1:36:40 AM"
+      ],
+      "cancelReason": "aaa",
+      "interviewMode": "Online",
+      "description": "SE/BrSE (Outsystem) làm việc tại Tokyo/Nagoya",
+      "rank": [
+        "Fresher"
+      ],
+      "skills": "Thực tập sinh",
+      "province": null,
+      "district": null,
+      "address": null,
+      "benefitsDescription": "Abalz",
+      "workingTime": "Full-time"
+    },
+    {
+      "id": 3,
+      "enterpriseId": 1,
+      "jobId": 30,
+      "time": "15:00",
+      "date": "15/09/2024",
+      "userId": 1,
+      "status": "done",
+      "createAt": "10/10/2024",
+      "meetingLink": "https://us05web.zoom.us/j/89287588349?pwd=FCfKDaE4Nig00lzgoP5aveJIwsjpqf.1",
+      "updateStatusTime": [
+        "11/24/2024, 12:48:38 AM",
+        "11/24/2024, 12:48:39 AM",
+        "11/24/2024, 12:48:40 AM",
+        "11/24/2024, 12:48:40 AM",
+        "11/24/2024, 12:48:40 AM",
+        "11/24/2024, 12:48:41 AM",
+        "11/24/2024, 12:48:41 AM"
+      ],
+      "cancelReason": "",
+      "description": "Marketing Excutive (Korea)",
+      "rank": [
+        "Middle",
+        "Junior",
+        "Leader",
+        "Fresher"
+      ],
+      "skills": "Senior",
+      "province": "Hồ Chí Minh",
+      "district": "Quận 3",
+      "address": "2",
+      "benefitsDescription": "2",
+      "workingTime": "Full-time"
+    },
+    {
+      "id": 4,
+      "enterpriseId": 3,
+      "jobId": 28,
+      "time": "00:00",
+      "date": "2024-11-26",
+      "userId": 3,
+      "status": "pending",
+      "createAt": "10/10/2024",
+      "meetingLink": "1",
+      "updateStatusTime": [
+        "11/24/2024, 12:55:40 AM"
+      ],
+      "cancelReason": "",
+      "description": "1",
+      "rank": [
+        "Fresher"
+      ],
+      "skills": "Senior",
+      "province": "Hồ Chí Minh",
+      "district": "Quận 3",
+      "address": "ádasdad",
+      "benefitsDescription": "1",
+      "workingTime": "1",
+      "interviewMode": "In-person"
+    },
+    {
+      "id": 5,
+      "enterpriseId": 1,
+      "time": "15:00",
+      "jobId": 29,
+      "date": "15/09/2024",
+      "userId": 2,
+      "status": "pending",
+      "createAt": "10/10/2024",
+      "meetingLink": "https://us05web.zoom.us/j/89287588349?pwd=FCfKDaE4Nig00lzgoP5aveJIwsjpqf.1",
+      "updateStatusTime": [],
+      "cancelReason": "",
+      "description": "Marketing Excutive (Korea)",
+      "rank": [
+        "Middle",
+        "Junior",
+        "Leader",
+        "Fresher"
+      ],
+      "skills": "Senior",
+      "province": "Hồ Chí Minh",
+      "district": "Quận 3",
+      "address": "2",
+      "benefitsDescription": "2",
+      "workingTime": "Full-time"
+    },
+    {
+      "id": 6,
+      "enterpriseId": 1,
+      "jobId": 35,
+      "time": "15:00",
+      "date": "15/09/2024",
+      "userId": 10,
+      "status": "pending",
+      "createAt": "10/10/2024",
+      "meetingLink": "https://us05web.zoom.us/j/89287588349?pwd=FCfKDaE4Nig00lzgoP5aveJIwsjpqf.1",
+      "updateStatusTime": [],
+      "cancelReason": "",
+      "description": "Marketing Excutive (Korea)",
+      "rank": [
+        "Middle",
+        "Junior",
+        "Leader",
+        "Fresher"
+      ],
+      "skills": "Senior",
+      "province": "Hồ Chí Minh",
+      "district": "Quận 3",
+      "address": "2",
+      "benefitsDescription": "2",
+      "workingTime": "Full-time"
+    },
+    {
+      "jobId": 36,
+      "time": null,
+      "createAt": "2024-11-21T01:19:29.234Z",
+      "date": null,
+      "userId": 3,
+      "status": "pending",
+      "enterpriseId": 3,
+      "meetingLink": null,
+      "updateStatusTime": [],
+      "cancelReason": null,
+      "description": null,
+      "rank": null,
+      "skill": null,
+      "province": null,
+      "district": null,
+      "address": null,
+      "benefitsDescription": null,
+      "id": 11
+    },
+    {
+      "jobId": 37,
+      "time": null,
+      "createAt": "2024-11-21T01:41:52.410Z",
+      "date": null,
+      "userId": 32,
+      "status": "pending",
+      "enterpriseId": 3,
+      "meetingLink": null,
+      "updateStatusTime": [],
+      "cancelReason": null,
+      "description": null,
+      "rank": null,
+      "skill": null,
+      "province": null,
+      "district": null,
+      "address": null,
+      "benefitsDescription": null,
+      "id": 12
+    },
+    {
+      "jobId": 30,
+      "time": "23:26",
+      "createAt": "2024-11-21T03:00:38.645Z",
+      "date": "2024-11-26",
+      "userId": 8,
+      "status": "pending",
+      "enterpriseId": 3,
+      "meetingLink": "1",
+      "updateStatusTime": [],
+      "cancelReason": null,
+      "description": "1",
+      "rank": [
+        "Fresher"
+      ],
+      "skill": null,
+      "province": null,
+      "district": null,
+      "address": "",
+      "benefitsDescription": "1",
+      "id": 13,
+      "workingTime": "1",
+      "interviewMode": "Online"
+    },
+    {
+      "jobId": 39,
+      "time": "05:00",
+      "createAt": "2024-11-24T07:26:46.504Z",
+      "date": "2024-11-26",
+      "userId": "2",
+      "status": "pending",
+      "enterpriseId": 2,
+      "meetingLink": "1234567.com",
+      "interviewMode": "Online",
+      "cancelReason": null,
+      "description": "12345678",
+      "skill": null,
+      "province": null,
+      "district": null,
+      "address": "",
+      "benefitsDescription": "23456ui",
+      "updateStatusTime": [
+        "11/24/2024, 2:26:46 PM"
+      ],
+      "workingTime": "Full time",
+      "id": 14,
+      "skills": "Mới tốt nghiệp",
+      "rank": [
+        "Intern"
+      ]
+    },
+    {
+      "jobId": 28,
+      "time": null,
+      "createAt": "2024-11-24T07:40:47.515Z",
+      "date": null,
+      "userId": 5,
+      "status": "pending",
+      "enterpriseId": 3,
+      "meetingLink": null,
+      "interviewMode": null,
+      "cancelReason": null,
+      "description": null,
+      "rank": null,
+      "skill": null,
+      "province": null,
+      "district": null,
+      "address": null,
+      "benefitsDescription": null,
+      "id": 13
+    },
+    {
+      "jobId": 21,
+      "time": null,
+      "createAt": "2024-11-22T01:48:10.977Z",
+      "date": null,
+      "userId": 5,
+      "status": false,
+      "enterpriseId": null,
+      "meetingLink": null,
+      "cancelReason": null,
+      "description": null,
+      "education": null,
+      "skill": null,
+      "province": null,
+      "district": null,
+      "address": null,
+      "benefitsDescription": null,
+      "id": 14
+    },
+    {
+      "jobId": 22,
+      "time": null,
+      "createAt": "2024-11-22T01:48:36.389Z",
+      "date": null,
+      "userId": 5,
+      "status": false,
+      "enterpriseId": null,
+      "meetingLink": null,
+      "cancelReason": null,
+      "description": null,
+      "education": null,
+      "skill": null,
+      "province": null,
+      "district": null,
+      "address": null,
+      "benefitsDescription": null,
+      "id": 15
+    },
+    {
+      "jobId": 24,
+      "time": null,
+      "createAt": "2024-11-23T05:03:24.952Z",
+      "date": null,
+      "userId": 5,
+      "status": false,
+      "enterpriseId": null,
+      "meetingLink": null,
+      "cancelReason": null,
+      "description": null,
+      "education": null,
+      "skill": null,
+      "province": null,
+      "district": null,
+      "address": null,
+      "benefitsDescription": null,
+      "id": 16
+    },
+    {
+      "jobId": 23,
+      "time": null,
+      "createAt": "2024-11-23T05:04:02.829Z",
+      "date": null,
+      "userId": 5,
+      "status": false,
+      "enterpriseId": null,
+      "meetingLink": null,
+      "cancelReason": null,
+      "description": null,
+      "education": null,
+      "skill": null,
+      "province": null,
+      "district": null,
+      "address": null,
+      "benefitsDescription": null,
+      "id": 17
+    },
+    {
+      "jobId": 31,
+      "time": null,
+      "createAt": "2024-11-25T00:41:35.731Z",
+      "date": null,
+      "userId": 1,
+      "status": "pending",
+      "enterpriseId": null,
+      "meetingLink": null,
+      "cancelReason": null,
+      "description": null,
+      "rank": null,
+      "skill": null,
+      "province": null,
+      "district": null,
+      "address": null,
+      "benefitsDescription": null,
+      "id": 18
+    },
+    {
+      "jobId": 40,
+      "time": null,
+      "createAt": "2024-11-26T02:13:19.992Z",
+      "date": null,
+      "userId": 7,
+      "status": "pending",
+      "enterpriseId": 6,
+      "meetingLink": null,
+      "interviewMode": null,
+      "cancelReason": null,
+      "description": null,
+      "rank": null,
+      "skill": null,
+      "province": null,
+      "district": null,
+      "address": null,
+      "benefitsDescription": null,
+      "updateStatusTime": [
+        "09:13:19 26/11/2024"
+      ],
+      "workingTime": "Full time",
+      "id": 19
+    },
+    {
+      "jobId": 34,
+      "time": null,
+      "createAt": "2024-11-26T02:28:42.177Z",
+      "date": null,
+      "userId": 2,
+      "status": "pending",
+      "enterpriseId": 5,
+      "meetingLink": null,
+      "interviewMode": null,
+      "cancelReason": null,
+      "description": null,
+      "rank": null,
+      "skill": null,
+      "province": null,
+      "district": null,
+      "address": null,
+      "benefitsDescription": null,
+      "updateStatusTime": [
+        "09:28:42 26/11/2024"
+      ],
+      "workingTime": "Full time",
+      "id": 20
+    },
+    {
+      "jobId": 40,
+      "time": null,
+      "createAt": "2024-12-24T06:47:52.774Z",
+      "date": null,
+      "userId": 33,
+      "status": "pending",
+      "enterpriseId": 6,
+      "meetingLink": null,
+      "interviewMode": null,
+      "cancelReason": null,
+      "description": null,
+      "rank": null,
+      "skill": null,
+      "province": null,
+      "district": null,
+      "address": null,
+      "benefitsDescription": null,
+      "updateStatusTime": [
+        "13:47:52 24/12/2024"
+      ],
+      "workingTime": "Full time",
+      "id": 21
+    },
+    {
+      "jobId": 39,
+      "time": null,
+      "createAt": "2024-12-24T06:49:10.970Z",
+      "date": null,
+      "userId": 33,
+      "status": "done",
+      "enterpriseId": 5,
+      "meetingLink": null,
+      "interviewMode": null,
+      "cancelReason": null,
+      "description": null,
+      "rank": null,
+      "skill": null,
+      "province": null,
+      "district": null,
+      "address": null,
+      "benefitsDescription": null,
+      "updateStatusTime": [
+        "13:49:10 24/12/2024",
+        "13:58:27 24/12/2024",
+        "13:58:41 24/12/2024",
+        "14:03:52 24/12/2024",
+        "14:03:54 24/12/2024",
+        "14:03:54 24/12/2024",
+        "14:03:59 24/12/2024"
+      ],
+      "workingTime": "Full time",
+      "id": 22
+    },
+    {
+      "jobId": 38,
+      "time": null,
+      "createAt": "2024-12-24T06:58:08.429Z",
+      "date": null,
+      "userId": 33,
+      "status": "pending",
+      "enterpriseId": 4,
+      "meetingLink": null,
+      "interviewMode": null,
+      "cancelReason": null,
+      "description": null,
+      "rank": null,
+      "skill": null,
+      "province": null,
+      "district": null,
+      "address": null,
+      "benefitsDescription": null,
+      "updateStatusTime": [
+        "13:58:08 24/12/2024"
+      ],
+      "workingTime": "Full time",
+      "id": 23
+    },
+    {
+      "jobId": 33,
+      "time": null,
+      "createAt": "2024-12-24T07:13:30.966Z",
+      "date": null,
+      "userId": 33,
+      "status": "pending",
+      "enterpriseId": 10,
+      "meetingLink": null,
+      "interviewMode": null,
+      "cancelReason": null,
+      "description": null,
+      "rank": null,
+      "skill": null,
+      "province": null,
+      "district": null,
+      "address": null,
+      "benefitsDescription": null,
+      "updateStatusTime": [
+        "14:13:30 24/12/2024"
+      ],
+      "workingTime": "Part time",
+      "id": 24
+    }
+  ],
+  "carousel": [
+    {
+      "id": 1,
+      "title": "nam",
+      "index": 2,
+      "imgUrl": "",
+      "status": "active"
+    }
+  ]
+}
